@@ -1,10 +1,10 @@
 package fr.simplifia.input.validator.impl;
 
-import static org.testng.Assert.assertTrue;
+import org.testng.annotations.Test;
 
 import java.util.Locale;
 
-import org.testng.annotations.Test;
+import static org.testng.Assert.assertTrue;
 
 /**
  * Created by simplifia on 18/09/17.
